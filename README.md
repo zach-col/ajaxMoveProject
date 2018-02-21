@@ -1,6 +1,6 @@
-# ajaxMoveProject
+# Ajax Move Project
 
-ajaxMoveProject is used to show you news
+Ajax Move Project is used to show you news
 about the location you would like to move to 
 using the new york times api.
 
